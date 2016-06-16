@@ -1,4 +1,5 @@
+using System;
 class program()
 {
-static public void main(){}
+static public void main() { };
 }
